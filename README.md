@@ -74,5 +74,5 @@ Current focus areas include:
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/christopher-michels-4b828530/
-- GitHub: https://github.com/cmichels
 - Frontend Masters: https://frontendmasters.com/u/kuda/
+- Udemy: https://www.udemy.com/user/chris188/
