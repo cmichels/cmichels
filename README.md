@@ -61,13 +61,7 @@ Experienced designing and operating production systems supporting CI/CD automati
 
 ## Featured Projects
 
-Featured public projects and tooling will be added here over time.
-
-Current focus areas include:
-- Go backend tooling
-- Kubernetes/platform utilities
-- Infrastructure automation
-- AI-assisted engineering tooling
+I’m currently curating public projects that reflect my work in backend systems, platform engineering, infrastructure automation, and AI-assisted development workflows.
 
 ---
 
