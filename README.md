@@ -1,7 +1,7 @@
 # Chris Michels
 ### Senior Backend & Platform Engineer
 
-Backend and platform engineer focused on Go, Kubernetes, cloud-native infrastructure, distributed systems, and developer productivity.
+Backend and platform engineer focused on Go, Kubernetes, cloud-native infrastructure, distributed systems, and developer productivity. Current public engineering portfolio is organized under [cmichels-engineering](https://github.com/cmichels-engineering).
 
 Experienced designing and operating production systems supporting CI/CD automation, Kubernetes platforms, event-driven architectures, and backend services requiring high availability and operational reliability.
 
@@ -61,7 +61,14 @@ Experienced designing and operating production systems supporting CI/CD automati
 
 ## Featured Projects
 
-I’m currently curating public projects that reflect my work in backend systems, platform engineering, infrastructure automation, and AI-assisted development workflows.
+- [repo-governance](https://github.com/cmichels-engineering/repo-governance)
+  - Terraform policy-as-code baseline for GitHub repository protections, merge standards, and governance consistency.
+- [pr-monitor](https://github.com/cmichels-engineering/pr-monitor)
+  - Terminal-native pull request monitoring and review workflow tooling for faster execution with less context switching.
+- [claude-config](https://github.com/cmichels-engineering/claude-config)
+  - Portable AI-assisted engineering workflow environment with reusable commands, guardrails, and cross-machine setup.
+- [dotconfig](https://github.com/cmichels-engineering/dotconfig)
+  - Symlink-based cross-machine engineering environment foundation for shell, tmux, terminal, and productivity consistency.
 
 ---
 
